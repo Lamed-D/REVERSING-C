@@ -1,7 +1,0 @@
-﻿cl : 명령줄 warning D9025: '/sdl'을(를) '/GS-'(으)로 재정의합니다.
-  소스.c
-  코드를 생성하고 있습니다.
-  Compiler switch has changed, fall back to full compilation.
-  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  코드를 생성했습니다.
-  HELLO WORLD.vcxproj -> C:\Users\Dhhd\Documents\새 폴더\HELLO WORLD\Release\HELLO WORLD.exe
