@@ -1,4 +1,0 @@
-﻿  소스.c
-C:\Users\Dhhd\source\repos\REVERSING-Variables\소스.c(7,17): warning C4133: '함수': 'int *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
-C:\Users\Dhhd\source\repos\REVERSING-Variables\소스.c(8,18): warning C4133: '함수': 'int *'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
-  REVERSING-Variables.vcxproj -> C:\Users\Dhhd\source\repos\REVERSING-Variables\Debug\REVERSING-Variables.exe
