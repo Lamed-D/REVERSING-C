@@ -18,5 +18,7 @@ int main()
 	printf("Static_variable = %d\n", Static_variable);
 	printf("Extern_variable = %d\n", Extern_variable);
 	printf("Register_variable = %d\n", Register_variable);
+
+	sum(Register_variable, Local_variable);
 }
 
