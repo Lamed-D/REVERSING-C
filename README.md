@@ -1,6 +1,6 @@
 # REVERSING-C
 제작자 Dhhd
 
-Pdf는
-https://open.kakao.com/me/dhhd
+PDF는
+https://drive.google.com/file/d/14hzV7xlJWCT7WIp_6Um3fOtAwjzJEzYx/view?usp=drivesdk
 연락주세요
