@@ -1,5 +1,5 @@
 # REVERSING-C
 제작자 Dhhd
 
-PDF는
-https://drive.google.com/file/d/14hzV7xlJWCT7WIp_6Um3fOtAwjzJEzYx/view?usp=drivesdk
+PDF링크
+https://drive.google.com/file/d/15KlU1zz13CiF5rV2UaZ9cPapQ0KqhCMU/view?usp=drivesdk
